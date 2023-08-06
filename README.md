@@ -160,5 +160,9 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
 Second part of Airbnb: Joann Vuong
+
+### ALX Project Contributors
+Cliff Omwami - [Github](https://github.com/houdinipapi)
+Elvis Kosgei - [Github](https://github.com/vinsky001)
 ## License
 Public Domain. No copy write protection. 
